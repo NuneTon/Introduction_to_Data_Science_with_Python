@@ -47,7 +47,7 @@ print(date_range)
 
 #Task5
 # Write a Pandas program to create a time series using three months frequency.
-date = pd.date_range("2018-01-01", periods=3, freq="M")
+date = pd.date_range("2018-01-01", periods=24, freq="3M")
 ts = pd.Series(range(len(date)), index=date)
 print(ts)
 
