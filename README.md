@@ -26,3 +26,8 @@ Data Science course
 ###### 2_6_Pandas_databases_2
 ###### 2_7_Visualisation
 ###### 2_9_DateTime
+###### Project2
+
+## third month_Machine_Learning
+###### Classification
+
