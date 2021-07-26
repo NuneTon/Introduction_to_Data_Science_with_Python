@@ -33,3 +33,4 @@ Data Science course
 ###### Linear_Regression
 ###### Polynomial_Regression
 ###### Logistic_Regression
+###### Support_Vector_Machine
