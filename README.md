@@ -32,3 +32,4 @@ Data Science course
 ###### Classification
 ###### Linear_Regression
 ###### Polynomial_Regression
+###### Logistic_Regression
