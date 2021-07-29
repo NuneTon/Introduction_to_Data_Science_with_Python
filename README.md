@@ -31,6 +31,7 @@ Data Science course
 ## third month_Machine_Learning
 ###### Classification
 ###### Linear_Regression
-###### Polynomial_Regression
 ###### Logistic_Regression
+###### Polynomial_Regression
+###### SimpleLinearRegressionModel
 ###### Support_Vector_Machine
