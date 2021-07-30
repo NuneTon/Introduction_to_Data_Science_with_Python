@@ -32,6 +32,7 @@ Data Science course
 ###### Classification
 ###### Linear_Regression
 ###### Logistic_Regression
+###### Logistic_Regression2
 ###### Polynomial_Regression
 ###### SimpleLinearRegressionModel
 ###### Sklearn_LinearRegression_HousingPrices
