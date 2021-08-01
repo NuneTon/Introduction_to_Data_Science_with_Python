@@ -33,6 +33,7 @@ Data Science course
 ###### Linear_Regression
 ###### Logistic_Regression
 ###### Logistic_Regression2
+###### Non_linear_SVM
 ###### Polynomial_Regression
 ###### SimpleLinearRegressionModel
 ###### Sklearn_LinearRegression_HousingPrices
