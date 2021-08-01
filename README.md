@@ -37,3 +37,4 @@ Data Science course
 ###### SimpleLinearRegressionModel
 ###### Sklearn_LinearRegression_HousingPrices
 ###### Support_Vector_Machine
+###### SVM_muffins_cupcakes
