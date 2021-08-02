@@ -30,6 +30,7 @@ Data Science course
 
 ## third month_Machine_Learning
 ###### Classification
+###### DecisionTrees
 ###### Linear_Regression
 ###### Logistic_Regression
 ###### Logistic_Regression2
