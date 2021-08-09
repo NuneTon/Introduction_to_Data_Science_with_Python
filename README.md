@@ -41,3 +41,4 @@ Data Science course
 ###### Support_Vector_Machine
 ###### SVM_character_recognition
 ###### SVM_muffins_cupcakes
+###### FinalProject
